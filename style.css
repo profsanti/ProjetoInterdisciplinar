@@ -3,8 +3,8 @@ h1{
     color: forestgreen;
 }
 
-br {
-    font: verdana;
+b {
+    font-family: Verdana;
 }
 
 tr {
