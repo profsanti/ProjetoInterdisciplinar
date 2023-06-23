@@ -3,6 +3,10 @@ h1{
     color: forestgreen;
 }
 
+br {
+    font: verdana;
+}
+
 tr {
     background-color: lightyellow;
 }
