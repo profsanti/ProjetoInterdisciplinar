@@ -3,6 +3,10 @@ h1{
     color: forestgreen;
 }
 
+tr {
+    background-color: lightyellow;
+}
+
 td{
     border: forestgreen solid 1px;
     height: 150px;
